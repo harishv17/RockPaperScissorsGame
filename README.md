@@ -1,4 +1,4 @@
-##Rock Paper Scissors Game##
+#Rock Paper Scissors Game
 
 Execute this game using command:
 
